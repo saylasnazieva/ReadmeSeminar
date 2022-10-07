@@ -1,1 +1,1 @@
-# Our remote repositofy
+# Our remote repository
